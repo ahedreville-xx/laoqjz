@@ -303,3 +303,4 @@
 {"jsonrpc":"2.0","id":1,"result":"0xb17fbccc6"}
 {"error":"{\"Error_GUID\":\"10605630159327462634\",\"Error\":\"Failed all retries {GUID:10605630159327462634,error:rpc error: code = Unavailable desc = closing transport due to: connection error: desc = \\\"error reading from server: read tcp 10.35.9.2:37752-\\u003e5.161.52.48:443: use of closed network connection\\\", received prior goaway: code: NO_ERROR,chain_id:ETH1}\"}"}
 {"error":"{\"Error_GUID\":\"8183001619504500334\",\"Error\":\"Failed all retries {GUID:8183001619504500334,error:rpc error: code = Unavailable desc = unexpected HTTP status code received from server: 502 (Bad Gateway); transport: received unexpected content-type \\\"text/html\\\",chain_id:ETH1}\"}"}
+{"jsonrpc":"2.0","id":1,"result":"0xc6a973368"}
